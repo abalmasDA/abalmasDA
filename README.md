@@ -9,9 +9,25 @@ Java Software Engineer
 
 ### Skills
 
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-</p>
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+<img src="https://cdn.simpleicons.org/icons/springio.svg" height="40" alt="spring logo" />
+<img src="https://cdn.simpleicons.org/icons/hibernate.svg" height="40" alt="hibernate logo" />
+<img src="https://cdn.simpleicons.org/icons/postgresql.svg" height="40" alt="postgresql logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+<img src="https://cdn.simpleicons.org/icons/docker.svg" height="40" alt="docker logo" />
+<img src="https://cdn.simpleicons.org/icons/github.svg" height="40" alt="github logo" />
+<img src="https://cdn.simpleicons.org/icons/git.svg" height="40" alt="git logo" />
+<img src="https://cdn.simpleicons.org/icons/apache.svg" height="40" alt="apachemaven logo" />
+<img src="https://cdn.simpleicons.org/icons/gradle.svg" height="40" alt="gradle logo" />
+<img src="https://cdn.simpleicons.org/icons/postman.svg" height="40" alt="postman logo" />
+<img src="https://cdn.simpleicons.org/icons/figma.svg" height="40" alt="figma logo" />
+<img src="https://cdn.simpleicons.org/icons/html5.svg" height="40" alt="html5 logo" />
+<img src="https://cdn.simpleicons.org/icons/intellijidea.svg" height="40" alt="intellijidea logo" />
+<img src="https://cdn.simpleicons.org/icons/powershell.svg" height="40" alt="powershell logo" />
+<img src="https://cdn.simpleicons.org/icons/trello.svg" height="40" alt="trello logo" />
+<img src="https://cdn.simpleicons.org/icons/slack.svg" height="40" alt="slack logo" />
+</div>
 
 ### Socials
 
