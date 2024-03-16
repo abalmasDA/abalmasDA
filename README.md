@@ -13,7 +13,7 @@ Java Software Engineer
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
 <img src="https://cdn.simpleicons.org/icons/springio.svg" height="40" alt="spring logo" />
 <img src="https://cdn.simpleicons.org/icons/hibernate.svg" height="40" alt="hibernate logo" />
-<img src="https://cdn.simpleicons.org/icons/postgresql.svg" height="40" alt="postgresql logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
 <img src="https://cdn.simpleicons.org/icons/docker.svg" height="40" alt="docker logo" />
 <img src="https://cdn.simpleicons.org/icons/github.svg" height="40" alt="github logo" />
@@ -28,6 +28,7 @@ Java Software Engineer
 <img src="https://cdn.simpleicons.org/icons/trello.svg" height="40" alt="trello logo" />
 <img src="https://cdn.simpleicons.org/icons/slack.svg" height="40" alt="slack logo" />
 </div>
+
 
 ### Socials
 
