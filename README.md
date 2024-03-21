@@ -27,6 +27,7 @@ Java Software Engineer
 <img src="https://cdn.simpleicons.org/icons/powershell.svg" height="40" alt="powershell logo" />
 <img src="https://cdn.simpleicons.org/icons/trello.svg" height="40" alt="trello logo" />
 <img src="https://cdn.simpleicons.org/icons/slack.svg" height="40" alt="slack logo" />
+https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white
 </div>
 
 
