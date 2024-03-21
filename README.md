@@ -10,8 +10,8 @@ Java Software Engineer
 ### Skills
 
 <div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-<img src="https://cdn.simpleicons.org/icons/springio.svg" height="40" alt="spring logo" />
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />](https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png)
+[<img src="https://cdn.simpleicons.org/icons/springio.svg" height="40" alt="spring logo" />](https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png)
 <img src="https://cdn.simpleicons.org/icons/hibernate.svg" height="40" alt="hibernate logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
